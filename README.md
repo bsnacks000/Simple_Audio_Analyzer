@@ -7,7 +7,7 @@ A Tkinter application for Python 2.7 that wraps some of the feature extraction a
 
 ## Installation
 
-The application requires the `matplotlib` and `librosa`
+The application requires the `matplotlib` and `librosa` libraries for audio analysis and plotting.
 
 The recommended installation is to clone this repo into a local directory and build a virtual environment. After activating the virtual environment use pip to install the application's dependencies.
     
@@ -44,5 +44,7 @@ If the project was built using a virtual environment make sure it is activated b
 **Save Session** - saves a the data dictionary object into a .sesh file
 
 **Load Session** - loads the .sesh file and initializes the plots
+
+
 
 
