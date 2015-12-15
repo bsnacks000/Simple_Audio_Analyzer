@@ -40,7 +40,9 @@ If the project was built using a virtual environment make sure it is activated b
   - *Onset/STFT* - short time fourier transform with onset markers 
   
 **Export JSON** - exports the data dictionary to a JSON file for downstream use in other applications
+
 **Save Session** - saves a the data dictionary object into a .sesh file
+
 **Load Session** - loads the .sesh file and initializes the plots
 
 
